@@ -20,7 +20,7 @@ tools = ["Git", "Docker", "Linux", "VS Code"]
 - 📈 Financial ML models and algorithms
 
 ### 🏆 **Featured Projects**
-- **[Speed Detection System](link)** - Real-time vehicle speed monitoring using computer vision
+- **[Speed Detection System](https://github.com/Tobi224/Speed-Detector)** - Real-time vehicle speed monitoring using computer vision
 
 
 ### 📫 **Let's Connect**
